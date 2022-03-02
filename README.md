@@ -13,6 +13,8 @@ const renann = {
 }
 ```
 
+<img height="180em" img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renann1&layout=compact&langs_count=7&theme=github_dark">
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Renann1)](https://github.com/Renann1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renann-santos//)](https://www.linkedin.com/in/renann-santos/)
 [![Gmail Badge](https://img.shields.io/badge/renannlima0@gmail.com-3f4961?style=flat-square&labelColor=3f4961&logo=Gmail&logoColor=white&link=mailto:renannlima0@gmail.com)](mailto:renannlima0@gmail.com)
