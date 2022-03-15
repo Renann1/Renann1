@@ -2,7 +2,7 @@
 <hr>
 
 <p> 🏫 Analysis and systems development at <a href="https://www.uninove.br/">University Ninth of July!</a></p>
-<p> 🤝 Member of <a href="https://github.com/NewDoors2">New Doors.</a></p>
+<p> 🤝 Member of <b>Tupla.</b></p>
 
 ```javascript
 const renann = {
